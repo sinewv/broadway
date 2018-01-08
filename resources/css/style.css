@@ -27,3 +27,12 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+p {
+  font-size: 14px;
+}
+
+#special_heading {
+  color: white;
+  background-image: URL("../images/the-flatiron-building.png");
+}
