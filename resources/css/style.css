@@ -13,7 +13,7 @@ h1 {
   font-weight: bold;
 }
 
-#header_nav a{
+#nav a{
   font-size: 18px;
   color: white;
 }
@@ -35,4 +35,11 @@ p {
 #special_heading {
   color: white;
   background-image: URL("../images/the-flatiron-building.png");
+}
+
+#footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
 }
